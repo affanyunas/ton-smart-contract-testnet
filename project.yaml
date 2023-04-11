@@ -1,0 +1,5 @@
+contract:
+  func:
+    - func/code.func
+  tests:
+    - tests/contract_tests.fc
